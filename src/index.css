@@ -1,0 +1,29 @@
+@import "tailwindcss";
+*{
+  font-family: "EB Garamond", serif;
+}
+
+header{
+  background-image: url('https://png.pngtree.com/background/20230527/original/pngtree-an-old-bookcase-in-a-library-picture-image_2760144.jpg');
+  height: 500px;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#main{
+  height: 500px;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.469);
+
+}
+
+#loginPage{
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTafFTFJXaMSm-SAJMQT9ThKbSLRdjRY9ufCQ&s');
+  height: 100vh;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
